@@ -45,4 +45,4 @@ Project Intructions
 5. Open the notebook:
      jupyter notebook dog_app.ipynb
 
-Medium Post: https://medium.com/p/f0a4e40f20ef/edit
+Medium Post: [https://medium.com/p/f0a4e40f20ef/edit](https://medium.com/@hopolang.tsufu/dog-breed-classification-using-cnn-f0a4e40f20ef)
