@@ -44,3 +44,5 @@ Project Intructions
      path/to/dog-project/bottleneck_features
 5. Open the notebook:
      jupyter notebook dog_app.ipynb
+
+Medium Post: https://medium.com/p/f0a4e40f20ef/edit
