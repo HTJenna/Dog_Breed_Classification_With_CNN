@@ -20,13 +20,13 @@ To run this project the following packages and libraries are required.
 
 Project Files
   1. Root Directory:
-    - bottleneck_features: The folder to store the bottleneck features is not uploaded due to their large size, but they can be downloaded
-    - dogImages: stores dog training, validation and testing images
-    - haarcascades: used face detection
-    - Lfw: has human images
-    - requirement: It contains YAML files for setting up the virtual environment
-    - saved_models: contains saved models from transfer learning CNNs
-    - Dog app: Notebook for manipulating data and creating CNNs
+- bottleneck_features: The folder to store the bottleneck features is not uploaded due to their large size, but they can be downloaded
+- dogImages: stores dog training, validation and testing images
+- haarcascades: used face detection
+- Lfw: has human images
+- requirement: It contains YAML files for setting up the virtual environment
+- saved_models: contains saved models from transfer learning CNNs
+- Dog app: Notebook for manipulating data and creating CNNs
 
 Project Intructions
 
