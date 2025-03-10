@@ -11,22 +11,22 @@ similar to how a human might learn to identify dog breeds.
 Project Libraries
 To run this project the following packages and libraries are required.
 
-CV2: Model used for face detection.
-glob: Used for file searching .
-keras: For the TensorFlow pre-trained models and image preprocessing.
-matplot: for creating plots
-pandas: Assists in data manipulation and model training.
-sklearn: Machine learning package used for training and enhancing the model.
+- CV2: Model used for face detection.
+- glob: Used for file searching .
+- keras: For the TensorFlow pre-trained models and image preprocessing.
+- matplot: for creating plots
+- pandas: Assists in data manipulation and model training.
+- sklearn: Machine learning package used for training and enhancing the model.
 
 Project Files
-  Root Directory:
-    bottleneck_features: The folder to store the bottleneck features is not uploaded due to their large size, but they can be downloaded
-    dogImages: stores dog training, validation and testing images
-    haarcascades: used face detection
-    Lfw: has human images
-    requirement: It contains YAML files for setting up the virtual environment
-    saved_models: contains saved models from transfer learning CNNs
-    Dog app: Notebook for manipulating data and creating CNNs
+  1. Root Directory:
+    - bottleneck_features: The folder to store the bottleneck features is not uploaded due to their large size, but they can be downloaded
+    - dogImages: stores dog training, validation and testing images
+    - haarcascades: used face detection
+    - Lfw: has human images
+    - requirement: It contains YAML files for setting up the virtual environment
+    - saved_models: contains saved models from transfer learning CNNs
+    - Dog app: Notebook for manipulating data and creating CNNs
 
 Project Intructions
 
